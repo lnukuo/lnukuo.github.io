@@ -11,6 +11,8 @@ I am a DPhil student at the [Cancer Epidemiology Unit](https://www.ceu.ox.ac.uk/
 
 Prior to this, I worked a research assistant in [Dr. Changzheng Yuan](https://person.zju.edu.cn/en/0019064)'s lab at Zhejiang University and as a physician in Beijing. I received my MS at [Columbia University](https://www.columbia.edu/) and Medical Degree at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
+I am actively seeking postdoctoral positions starting [Spring 2027]. Feel free to reach out!
+
 
 Research Interest
 ------
@@ -27,3 +29,6 @@ Licensure
 ------
 Physician in Public Health, China  
 Registered Dietitian Nutritionist (RDN), U.S.A.
+
+
+I am always happy to discuss research and potential collaborations. Please don't hesitate to email me!
