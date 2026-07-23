@@ -18,12 +18,12 @@ epidemiology, multi-omics, biomarker, ageing, precision prevention, clinical tra
 
 
 Education
-======
-DPhil Student, University of Oxford, England, UK
-MS, Columbia University, New York, NY, 2017
+------
+DPhil Student, University of Oxford, England, UK  
+MS, Columbia University, New York, NY, 2017  
 BMed, Sun Yat-sen University (SYSU), Guangzhou, China, 2014
 
 Licensure
-======
-Physician in Public Health, China
+------
+Physician in Public Health, China  
 Registered Dietitian Nutritionist (RDN), U.S.A.
